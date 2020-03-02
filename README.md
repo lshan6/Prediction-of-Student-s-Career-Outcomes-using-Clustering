@@ -13,7 +13,7 @@ I first translated the data to csv file using tabula. I then calculated the Z va
 ## Conclusion
 The chart below illustrates the three clusters:
 
-![alt text](https://github.com/lshan6/Baltimore-Health-Dept.-Earned-Salaries-Compared-to-their-Tenure-in-Baltimore-City-/blob/master/baltimore%20city.PNG)
+![alt text](https://github.com/lshan6/Prediction-of-Student-s-Career-Outcomes-using-Clustering/blob/master/Cluster.PNG)
 
 It is shown that the majority of cluster #1 went to academia, such as the SOM Cell Biology, A&S Biology, and SOM Neuroscience.
 The majority of cluster #2 went to Non-Profit and Government, such as A&S Biophysics, SOM Biomedical Engineering, and SOM Oncology Center.
