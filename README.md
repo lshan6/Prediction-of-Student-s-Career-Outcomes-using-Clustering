@@ -1,4 +1,4 @@
-# Prediction-of-Student-s-Career-Outcomes-using-Clustering
+# Prediction-of-Students-Career-Outcomes-using-Clustering
 
 Using open data from the Next Generation Life Science (NGLS) Coalition to predict PHD students' outcomes in Excel
 
